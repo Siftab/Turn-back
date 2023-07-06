@@ -1,0 +1,53 @@
+*{margin: 0px;
+padding: 0px;}
+
+.matha{
+   
+    background-color: rgb(17, 16, 16);
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.logo-photo{width: 150px;
+   
+    
+}
+.menu{
+    color: white;
+    list-style: none;
+    display: flex;
+    
+}
+.lion{
+    margin-left: 10px; padding: 7px;
+    font-size: 20px; 
+}
+
+.pet{display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100vh;
+    background-image: url("./images/background.png"),linear-gradient(45deg, rgb(8,8,8),rgb(53 ,53, 53)); color:white;
+    
+    
+}
+.image{
+    width: 300px;
+}
+.texta{
+   
+    font-size: 45px;
+}
+.descri{
+    font-size: 20px;
+    margin-top: 10px;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+button{padding: 10px;
+background-color: red;
+color: white;
+font-size: 18px;
+border-style: none;
+border-radius:5px ;}
